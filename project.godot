@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Pixelis"
-run/main_scene="uid://cq2h1c8ipsj4x"
+run/main_scene="uid://h4klksahvbwh"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
